@@ -1,0 +1,21 @@
+body {
+  margin: 5vh 5vw;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+input[type="text"] {
+  margin-right: 0.5em;
+  margin-top: 0.1em;
+}
+
+input[name="save"] {
+  margin: 0.5em;
+}
+
+form > div {
+  margin-top: 0.5em;
+}
