@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <rect width="128" height="128" style="paint-order: fill; fill: rgb(20, 51, 93); stroke-width: 0px;" transform="matrix(1, 0, 0, 1, -1.0658141036401503e-14, 0)"/>
+  <rect style="fill: none; stroke: rgb(115, 234, 239); stroke-width: 8px; stroke-miterlimit: 16.06; stroke-linejoin: round;" x="16" y="48" width="96" height="32" rx="2" ry="2" transform="matrix(1, 0, 0, 1, 1.7763568394002505e-15, 0)"/>
+  <circle style="stroke: rgb(115, 234, 239); fill: rgb(115, 234, 239); stroke-width: 2px;" cx="40" cy="64" r="7.423" transform="matrix(1, 0, 0, 1, 1.7763568394002505e-15, 0)"/>
+  <circle style="stroke: rgb(115, 234, 239); fill: rgb(115, 234, 239); stroke-width: 2px;" cx="64" cy="64" r="7.423" transform="matrix(1, 0, 0, 1, 1.7763568394002505e-15, 0)"/>
+  <circle style="stroke: rgb(115, 234, 239); fill: rgb(115, 234, 239); stroke-width: 2px;" cx="88" cy="64" r="7.423" transform="matrix(1, 0, 0, 1, 1.7763568394002505e-15, 0)"/>
+</svg>
